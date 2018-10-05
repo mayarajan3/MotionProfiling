@@ -7,6 +7,6 @@ Generating a set of distances, velocities, and accelerations for a robot moving 
 2D Motion Profiling Constructor:
 Generating a set of distances, velocities, and accelerations for each side of the robot given a start and end point using  spline interpolation
   
-Execute function (for 1D and 2D): returns expected location given instantaneous time
+Execute functions (for 1D and 2D): returns expected location given instantaneous time
   
  
